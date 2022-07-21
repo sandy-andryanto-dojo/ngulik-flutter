@@ -1,0 +1,5 @@
+# flutter new project
+> flutter create [project_name]
+
+# flutter run project
+> flutter run -d chrome
